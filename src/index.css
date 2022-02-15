@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+   background-image: url("D:\web development\react\extrareact\note\src\img\React logo PNG.png");
+   background-repeat: no-repeat;
+   background-position: 30rem 70px;
+
+  }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
