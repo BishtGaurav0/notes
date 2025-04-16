@@ -14,8 +14,7 @@ react-notes/ ├─ public/ ├─ src/ │ ├─ components/ │ ├─ data/ 
 
 
 ## 🎥 Video Walkthrough of the Project  
-_A walkthrough showing the React notes display and app structure will be added._
-
+![Image](https://github.com/user-attachments/assets/c2e29cdc-f9da-442b-8ee4-dbc46f3962f7)
 ## ✨ Features
 - 📄 Lists major features of React (JSX, Components, Virtual DOM, etc.)
 - ✅ Highlights the pros and advantages of using React
